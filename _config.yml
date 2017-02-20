@@ -17,9 +17,9 @@ markdown    : kramdown
 highlighter : pygments
 
 # SEO settings
-title: dotX
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
+title: SketchWit
+description: "Nothing better than today，nothing worse than today，so I love it！"
+keywords: "writting, 汤立, free, 自由, SEO, blog, web，独立"
 
 # Site settings
 url: http://sketchwit.com
@@ -39,7 +39,7 @@ author:
   facebook  : http://facebook.com/fernando.dev
   linkedin  : http://linkedin.com/in/nandomoreirame
 
-# google_analytics: UA-52446115-1
+# google_analytics: UA-92173633-1
 repo: http://github.com/nandomoreirame/dotX
 
 # comments
