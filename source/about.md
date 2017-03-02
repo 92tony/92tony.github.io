@@ -1,11 +1,8 @@
 ---
 layout: page
 title: About
-subtitle: It's Free!
+subtitle: 做分享故事的有趣之人
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [jekyll-new](https://github.com/jglovier/jekyll-new)
-You can find the source code for Jekyll at [jekyll](https://github.com/jekyll/jekyll)
+一些我的所见所闻，我把有温度的故事感受记录下来，愿与你分享时间的美。
